@@ -1,0 +1,14 @@
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/bin/Debug/net9.0/Prototype
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/bin/Debug/net9.0/Prototype.deps.json
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/bin/Debug/net9.0/Prototype.runtimeconfig.json
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/bin/Debug/net9.0/Prototype.dll
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/bin/Debug/net9.0/Prototype.pdb
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/obj/Debug/net9.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/obj/Debug/net9.0/Prototype.AssemblyInfoInputs.cache
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/obj/Debug/net9.0/Prototype.AssemblyInfo.cs
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/obj/Debug/net9.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/obj/Debug/net9.0/Prototype.dll
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/obj/Debug/net9.0/refint/Prototype.dll
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/obj/Debug/net9.0/Prototype.pdb
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/obj/Debug/net9.0/Prototype.genruntimeconfig.cache
+/Users/moh3enkhorrami/Projects/C#/Design_Pattern_C_Sharp/Creational Patterns/Prototype/Prototype/obj/Debug/net9.0/ref/Prototype.dll
