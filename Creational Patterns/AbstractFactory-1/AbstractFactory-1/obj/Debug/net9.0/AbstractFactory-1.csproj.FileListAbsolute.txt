@@ -1,0 +1,14 @@
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/bin/Debug/net9.0/AbstractFactory-1
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/bin/Debug/net9.0/AbstractFactory-1.deps.json
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/bin/Debug/net9.0/AbstractFactory-1.runtimeconfig.json
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/bin/Debug/net9.0/AbstractFactory-1.dll
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/bin/Debug/net9.0/AbstractFactory-1.pdb
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/obj/Debug/net9.0/AbstractFactory-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/obj/Debug/net9.0/AbstractFactory-1.AssemblyInfoInputs.cache
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/obj/Debug/net9.0/AbstractFactory-1.AssemblyInfo.cs
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/obj/Debug/net9.0/AbstractFactory-1.csproj.CoreCompileInputs.cache
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/obj/Debug/net9.0/AbstractFactory-1.dll
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/obj/Debug/net9.0/refint/AbstractFactory-1.dll
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/obj/Debug/net9.0/AbstractFactory-1.pdb
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/obj/Debug/net9.0/AbstractFactory-1.genruntimeconfig.cache
+/Users/moh3enkhorrami/Projects/C#/Pattern/AbstractFactory-1/AbstractFactory-1/obj/Debug/net9.0/ref/AbstractFactory-1.dll

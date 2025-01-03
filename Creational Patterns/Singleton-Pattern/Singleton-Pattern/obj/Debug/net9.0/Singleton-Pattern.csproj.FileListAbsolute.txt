@@ -1,0 +1,14 @@
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/bin/Debug/net9.0/Singleton-Pattern
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/bin/Debug/net9.0/Singleton-Pattern.deps.json
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/bin/Debug/net9.0/Singleton-Pattern.runtimeconfig.json
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/bin/Debug/net9.0/Singleton-Pattern.dll
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/bin/Debug/net9.0/Singleton-Pattern.pdb
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/obj/Debug/net9.0/Singleton-Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/obj/Debug/net9.0/Singleton-Pattern.AssemblyInfoInputs.cache
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/obj/Debug/net9.0/Singleton-Pattern.AssemblyInfo.cs
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/obj/Debug/net9.0/Singleton-Pattern.csproj.CoreCompileInputs.cache
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/obj/Debug/net9.0/Singleton-Pattern.dll
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/obj/Debug/net9.0/refint/Singleton-Pattern.dll
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/obj/Debug/net9.0/Singleton-Pattern.pdb
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/obj/Debug/net9.0/Singleton-Pattern.genruntimeconfig.cache
+/Users/moh3enkhorrami/Projects/C#/Singleton-Pattern/Singleton-Pattern/obj/Debug/net9.0/ref/Singleton-Pattern.dll

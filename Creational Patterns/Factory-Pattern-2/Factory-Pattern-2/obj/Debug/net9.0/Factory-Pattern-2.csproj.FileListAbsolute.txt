@@ -1,0 +1,14 @@
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/bin/Debug/net9.0/Factory-Pattern-2
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/bin/Debug/net9.0/Factory-Pattern-2.deps.json
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/bin/Debug/net9.0/Factory-Pattern-2.runtimeconfig.json
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/bin/Debug/net9.0/Factory-Pattern-2.dll
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/bin/Debug/net9.0/Factory-Pattern-2.pdb
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/obj/Debug/net9.0/Factory-Pattern-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/obj/Debug/net9.0/Factory-Pattern-2.AssemblyInfoInputs.cache
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/obj/Debug/net9.0/Factory-Pattern-2.AssemblyInfo.cs
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/obj/Debug/net9.0/Factory-Pattern-2.csproj.CoreCompileInputs.cache
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/obj/Debug/net9.0/Factory-Pattern-2.dll
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/obj/Debug/net9.0/refint/Factory-Pattern-2.dll
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/obj/Debug/net9.0/Factory-Pattern-2.pdb
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/obj/Debug/net9.0/Factory-Pattern-2.genruntimeconfig.cache
+/Users/moh3enkhorrami/Projects/C#/Pattern/Factory-Pattern-2/Factory-Pattern-2/obj/Debug/net9.0/ref/Factory-Pattern-2.dll

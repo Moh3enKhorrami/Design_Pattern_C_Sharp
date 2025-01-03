@@ -1,0 +1,14 @@
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/bin/Debug/net9.0/Builder
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/bin/Debug/net9.0/Builder.deps.json
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/bin/Debug/net9.0/Builder.runtimeconfig.json
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/bin/Debug/net9.0/Builder.dll
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/bin/Debug/net9.0/Builder.pdb
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/obj/Debug/net9.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/obj/Debug/net9.0/Builder.AssemblyInfoInputs.cache
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/obj/Debug/net9.0/Builder.AssemblyInfo.cs
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/obj/Debug/net9.0/Builder.csproj.CoreCompileInputs.cache
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/obj/Debug/net9.0/Builder.dll
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/obj/Debug/net9.0/refint/Builder.dll
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/obj/Debug/net9.0/Builder.pdb
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/obj/Debug/net9.0/Builder.genruntimeconfig.cache
+/Users/moh3enkhorrami/Projects/C#/Pattern/Creational Patterns/Builder/Builder/obj/Debug/net9.0/ref/Builder.dll
